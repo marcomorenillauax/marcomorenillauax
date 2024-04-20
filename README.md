@@ -1,6 +1,6 @@
 # GitHub Marco Antonio Morenilla Alonso
 
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+![Imagen Gato](recursos/gatito.jpg)
 
 ## Contenido
 
